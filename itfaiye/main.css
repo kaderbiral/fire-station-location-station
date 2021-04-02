@@ -1,0 +1,106 @@
+@charset "utf-8";
+/* CSS Document */
+html{ 
+    background: url(images/1.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#kutu{
+	width:500px;
+	height:280px;
+	background-color:white;
+	padding-top: 7px;
+	border: 6px solid #c23500;
+	font-family: Calibri;
+    font-size: 15px;
+	position: relative;
+	float:left;
+	left:410px;
+	top:150px;
+}
+
+.logo{
+	width:60px;
+	height:60px;
+	float: left;
+	margin-left:40px;
+	margin-top:15px;
+}
+
+img{
+	width:65px;
+	height:65px;
+}
+
+.ana_baslik{
+	width:400px;
+	height:100px;
+	float: left;
+
+}
+
+input[type=text] {
+	border: 2px solid #c23500;
+	width: 190px;
+	height:25px;
+}
+
+input[type=password] {
+	border: 2px solid #c23500;
+	width: 190px;
+	height:25px;
+}
+
+.baslik{
+	font-weight:bold;
+	color: #c23500;
+	font-size: 22px;
+	padding-left: 56px;
+	
+}
+
+.baslik2{
+	font-weight:bold;
+	color: #c23500;
+	font-size: 19px;
+	padding-left: 115px;
+	
+}
+
+.alt_baslik{
+	color: black;
+	font-size: 18px;
+}
+
+.btn {
+    background-color: #c23500;
+    border: 1px solid black;
+    display: inline-block;
+    cursor: pointer;
+    color: white;
+    font-family: 'Open Sans',Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 8px 30px;
+    text-decoration: none;
+    position: relative;
+    top: 5px;
+    left: 100px;
+	margin-right: 85px;
+}
+
+.btn:hover {
+	background-color:#de5623;
+	border-color: white;
+	color: black;
+}
+
+.btn:active {
+	background-color: black;
+	color:white;
+
+}
+
