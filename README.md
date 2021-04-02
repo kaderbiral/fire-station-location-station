@@ -8,5 +8,5 @@
 
 - The goal of the system is to propose a system that supports decision-makers in determining the most suitable locations for new fire stations.
 
-- You can access the database from the 'db' folder.
-- You can access the project files from the 'itfaiye' folder.
+- You can access the database from the '*db*' folder.
+- You can access the project files from the '*itfaiye*' folder.
